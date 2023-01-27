@@ -1,0 +1,19 @@
+{
+    "apps": [
+        {
+            "vhdSrc": "\\\\avdmsixi9vhqw.file.core.windows.net\\msix-apps\\vscode_1.0.0.0_x64__vr8wsdmdqn0zj.vhd",
+            "volumeGuid": "0ddccf60-cbb3-4f74-b118-b4aae3d68f1b",
+            "packageName": "vscode_1.0.0.0_x64__vr8wsdmdqn0zj",
+            "parentFolder": "msix",
+            "sessionTarget": {
+                "hostPools": [
+                    "MSIX-Builder"
+                ],
+                "userGroups": [
+                    "SW_WVD_All",
+                    "SW_WVD_NotePadPP"
+                ]
+            }
+        }
+    ]
+}
