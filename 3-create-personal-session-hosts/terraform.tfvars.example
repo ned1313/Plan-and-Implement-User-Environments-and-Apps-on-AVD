@@ -1,3 +1,4 @@
+dc_private_ip_address       = "10.0.1.4"
 hub_vnet_name = ""
 hub_vnet_id = ""
 hub_vnet_resource_group = ""
