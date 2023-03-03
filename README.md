@@ -1,6 +1,6 @@
 # Plan-and-Implement-User-Environments-and-Apps-on-AVD
 
-Welcome to Azure Virtual Desktop: Plan and Implement User Environments and Security. These exercise files are meant to accompany my course on Pluralsight. The course was originally developed in January of 2022, using PowerShell version 7.2.2, Azure PowerShell module version 7.5.0, Azure CLI version 2.30.0, and Terraform 1.3.4. All of the exercise files should continue to be valid on the current major version of each platform.
+Welcome to Azure Virtual Desktop: Plan and Implement User Environments and Security. These exercise files are meant to accompany [my course on Pluralsight](http://www.pluralsight.com/courses/azure-virtual-desktop-plan-implement-user-environments-apps-cert). The course was originally developed in January of 2022, using PowerShell version 7.2.2, Azure PowerShell module version 7.5.0, Azure CLI version 2.30.0, and Terraform 1.3.4. All of the exercise files should continue to be valid on the current major version of each platform.
 
 ## Using the files
 
